@@ -1,0 +1,18 @@
+EarControl v1.7.5 免费开源测试版
+
+1. 把 EarControl.app 拖到 Applications。
+2. 从“应用程序”打开 EarControl。
+3. 若 macOS 阻止打开，请前往：
+   系统设置 → 隐私与安全性 → 仍要打开。
+4. 根据 EarControl 首次设置窗口开启辅助功能权限。
+5. 完全退出并重新打开 EarControl，让新权限生效。
+6. 在微信输入法中把“按住说话”设置为右 Option。
+7. 如需使用耳麦收音，请在系统声音输入中选择 External Microphone。
+
+三枚按键显示 3/3 只代表硬件信号已识别。辅助功能身份和键盘事件发送也必须同时通过，映射动作才会执行。
+
+完整说明：
+https://github.com/HeJianBTW/EarControl/blob/main/docs/INSTALL.md
+
+本软件不录音、不读取输入文字，也不上传音频。
+本测试包使用稳定开发签名但未经过 Developer ID 公证，首次打开仍需在隐私与安全性中选择“仍要打开”。
